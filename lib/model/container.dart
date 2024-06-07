@@ -40,7 +40,7 @@ class _HomeViewState extends State<HomeView> {
           pWidget(Colors.indigo),
           pWidget(Colors.green) ,
           pWidget(Colors.yellow) ,
-          //pWidget(Colors.yellow) ,
+          
         ],
       ),
     );
