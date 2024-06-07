@@ -29,6 +29,7 @@ class HomeView extends StatelessWidget {
           child: const Text(
             "Demo App",
             style: TextStyle(color: Colors.black, fontSize: 40.0),
+           // style: TextStyle(color: Colors.black, fontSize: 40.0),
           ),
         ),
       ),
