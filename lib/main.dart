@@ -22,6 +22,8 @@ class _HomeViewState extends State<HomeView> {
     return GestureDetector(
       onTap: () async{
         await player.play(UrlSource(audio));
+        await player.play(UrlSource(audio));
+        await player.play(UrlSource(audio));
 
 
       },
